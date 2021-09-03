@@ -1,0 +1,11 @@
+numpy
+notebook
+dltk
+future
+
+scipy
+pandas
+matplotlib
+scikit-image
+tensorflow==1.13.1
+SimpleITK
